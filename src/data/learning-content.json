@@ -1,0 +1,3210 @@
+{
+  "generatedAt": "2026-02-15T13:56:53.781Z",
+  "counts": {
+    "words": 200,
+    "phrasalVerbs": 200,
+    "total": 400
+  },
+  "items": [
+    {
+      "id": "w-001",
+      "type": "word",
+      "category": "Words",
+      "term": "Abrupt",
+      "meaning": "Sudden; out of the blue; Appearing unkind or rude because you are in a hurry",
+      "example": "The meeting ended abruptly because of the boss's family emergency."
+    },
+    {
+      "id": "w-002",
+      "type": "word",
+      "category": "Words",
+      "term": "Extraordinary",
+      "meaning": "Not typical; special; Surprising; not expected",
+      "example": "The view from up here is extraordinary."
+    },
+    {
+      "id": "w-003",
+      "type": "word",
+      "category": "Words",
+      "term": "Utter",
+      "meaning": "Emphasis on something that is particularly bad; To use your voice",
+      "example": "This calculus problem has left me in a state of utter confusion."
+    },
+    {
+      "id": "w-004",
+      "type": "word",
+      "category": "Words",
+      "term": "Absurd",
+      "meaning": "Especially ridiculous",
+      "example": "Her idea was simply absurd."
+    },
+    {
+      "id": "w-005",
+      "type": "word",
+      "category": "Words",
+      "term": "Partial",
+      "meaning": "Incomplete; not whole",
+      "example": "She only offered a partial solution to selling more merchandise."
+    },
+    {
+      "id": "w-006",
+      "type": "word",
+      "category": "Words",
+      "term": "Robust",
+      "meaning": "Extremely strong and sturdy",
+      "example": "The bridge's structure is very robust."
+    },
+    {
+      "id": "w-007",
+      "type": "word",
+      "category": "Words",
+      "term": "Superb",
+      "meaning": "Above average; very good",
+      "example": "That vacation was superb."
+    },
+    {
+      "id": "w-008",
+      "type": "word",
+      "category": "Words",
+      "term": "Vicious",
+      "meaning": "Purposely harmful or violent",
+      "example": "The wild dog was very vicious."
+    },
+    {
+      "id": "w-009",
+      "type": "word",
+      "category": "Words",
+      "term": "Supreme",
+      "meaning": "The best or greatest",
+      "example": "In my mind, chocolate ice cream reigns supreme."
+    },
+    {
+      "id": "w-010",
+      "type": "word",
+      "category": "Words",
+      "term": "Verbal",
+      "meaning": "Using words as opposed to writing",
+      "example": "She gave her verbal agreement to seeing a movie tonight."
+    },
+    {
+      "id": "w-011",
+      "type": "word",
+      "category": "Words",
+      "term": "Authentic",
+      "meaning": "The original or equally as genuine as it",
+      "example": "He won an award for creating the most authentic representation of the artist's work."
+    },
+    {
+      "id": "w-012",
+      "type": "word",
+      "category": "Words",
+      "term": "Eligible",
+      "meaning": "Able or permitted to do something",
+      "example": "They will be eligible for parole after serving 10 years in prison."
+    },
+    {
+      "id": "w-013",
+      "type": "word",
+      "category": "Words",
+      "term": "Superficial",
+      "meaning": "Surface level; shallow",
+      "example": "Chloe's actions revealed her superficial attitude and values."
+    },
+    {
+      "id": "w-014",
+      "type": "word",
+      "category": "Words",
+      "term": "Vague",
+      "meaning": "Unclear; little to no details",
+      "example": "The assignment's instructions were vague."
+    },
+    {
+      "id": "w-015",
+      "type": "word",
+      "category": "Words",
+      "term": "Amateur",
+      "meaning": "Beginner; not a professional",
+      "example": "Tony signed up for his college's amateur tennis team."
+    },
+    {
+      "id": "w-016",
+      "type": "word",
+      "category": "Words",
+      "term": "Delicate",
+      "meaning": "Easily breakable",
+      "example": "Grandma's pottery is very delicate, so we aren't allowed to touch them."
+    },
+    {
+      "id": "w-017",
+      "type": "word",
+      "category": "Words",
+      "term": "Rash",
+      "meaning": "Quick, unwise decision-making",
+      "example": "Her decision to drop out of college seemed rash."
+    },
+    {
+      "id": "w-018",
+      "type": "word",
+      "category": "Words",
+      "term": "Swift",
+      "meaning": "Completed quickly",
+      "example": "The board was erased in one swift movement."
+    },
+    {
+      "id": "w-019",
+      "type": "word",
+      "category": "Words",
+      "term": "Vocal",
+      "meaning": "Verbally expressive; Music that involves the voice",
+      "example": "Amanda is very vocal about community issues."
+    },
+    {
+      "id": "w-020",
+      "type": "word",
+      "category": "Words",
+      "term": "Brisk",
+      "meaning": "Quickly with energy",
+      "example": "It started raining while Isaac was taking a brisk walk."
+    },
+    {
+      "id": "w-021",
+      "type": "word",
+      "category": "Words",
+      "term": "Deliberate",
+      "meaning": "Purposeful; a planned action; To plan or discuss",
+      "example": "Her punishment was deliberate."
+    },
+    {
+      "id": "w-022",
+      "type": "word",
+      "category": "Words",
+      "term": "Efficient",
+      "meaning": "The quickest and best possible way",
+      "example": "She was in search of the most efficient way to organize her files."
+    },
+    {
+      "id": "w-023",
+      "type": "word",
+      "category": "Words",
+      "term": "Tremendous",
+      "meaning": "Extremely or very good",
+      "example": "That required a tremendous amount of work."
+    },
+    {
+      "id": "w-024",
+      "type": "word",
+      "category": "Words",
+      "term": "Vital",
+      "meaning": "Essential; crucial; Having to do with the body's internal organs",
+      "example": "It is of vital importance that we complete our homework on time."
+    },
+    {
+      "id": "w-025",
+      "type": "word",
+      "category": "Words",
+      "term": "Artificial",
+      "meaning": "Unnatural; made to look like something else",
+      "example": "There are way too many artificial sweeteners in this drink."
+    },
+    {
+      "id": "w-026",
+      "type": "word",
+      "category": "Words",
+      "term": "Legitimate",
+      "meaning": "Legally accepted; To make legal",
+      "example": "That is a legitimate source."
+    },
+    {
+      "id": "w-027",
+      "type": "word",
+      "category": "Words",
+      "term": "Rigorous",
+      "meaning": "Complex; detailed; severe",
+      "example": "Calculus 4 is a rigorous course."
+    },
+    {
+      "id": "w-028",
+      "type": "word",
+      "category": "Words",
+      "term": "Scarce",
+      "meaning": "Difficult to acquire; Barely",
+      "example": "During a drought, water is very scarce."
+    },
+    {
+      "id": "w-029",
+      "type": "word",
+      "category": "Words",
+      "term": "Vivid",
+      "meaning": "Detailed; brightly colored",
+      "example": "The painting was very vivid."
+    },
+    {
+      "id": "w-030",
+      "type": "word",
+      "category": "Words",
+      "term": "Vulnerable",
+      "meaning": "Easily harmed or in danger",
+      "example": "We must protect the minds of the vulnerable youth."
+    },
+    {
+      "id": "w-031",
+      "type": "word",
+      "category": "Words",
+      "term": "Vast",
+      "meaning": "Especially large",
+      "example": "A vast majority of people prefer mountains over the beach."
+    },
+    {
+      "id": "w-032",
+      "type": "word",
+      "category": "Words",
+      "term": "Magnificent",
+      "meaning": "Awe inspiring; admirable",
+      "example": "The sunset is magnificent."
+    },
+    {
+      "id": "w-033",
+      "type": "word",
+      "category": "Words",
+      "term": "Apparent",
+      "meaning": "Obvious; easily seen",
+      "example": "Her feelings were very apparent on her face."
+    },
+    {
+      "id": "w-034",
+      "type": "word",
+      "category": "Words",
+      "term": "Antique",
+      "meaning": "An item from an earlier period of time; Made in a different time period",
+      "example": "My great grandma's dresser is an antique."
+    },
+    {
+      "id": "w-035",
+      "type": "word",
+      "category": "Words",
+      "term": "Compact",
+      "meaning": "Fashioned in a tidy way with little space; A small, flat makeup case",
+      "example": "The apartment's layout is very compact."
+    },
+    {
+      "id": "w-036",
+      "type": "word",
+      "category": "Words",
+      "term": "Substantial",
+      "meaning": "Significant in size or importance",
+      "example": "There is substantial evidence that points to him being the killer."
+    },
+    {
+      "id": "w-037",
+      "type": "word",
+      "category": "Words",
+      "term": "Toxic",
+      "meaning": "Harmful",
+      "example": "Mr. Holland warned us that the chemicals were toxic."
+    },
+    {
+      "id": "w-038",
+      "type": "word",
+      "category": "Words",
+      "term": "Unanimous",
+      "meaning": "All individuals agree about a certain issue",
+      "example": "The vote to remove her from the committee was unanimous."
+    },
+    {
+      "id": "w-039",
+      "type": "word",
+      "category": "Words",
+      "term": "Ample",
+      "meaning": "Sufficient; plenty",
+      "example": "You must provide ample evidence of the occurrence."
+    },
+    {
+      "id": "w-040",
+      "type": "word",
+      "category": "Words",
+      "term": "Bizarre",
+      "meaning": "Strange; odd; unusual",
+      "example": "Her outfit is so bizarre."
+    },
+    {
+      "id": "w-041",
+      "type": "word",
+      "category": "Words",
+      "term": "Moderate",
+      "meaning": "Medium in size; A person with neutral opinions; To keep a specific standard",
+      "example": "The company is experiencing moderate growth."
+    },
+    {
+      "id": "w-042",
+      "type": "word",
+      "category": "Words",
+      "term": "Particular",
+      "meaning": "A certain one",
+      "example": "My mom asked me to get a particular kind of milk, but I can't remember which one it was."
+    },
+    {
+      "id": "w-043",
+      "type": "word",
+      "category": "Words",
+      "term": "Prompt",
+      "meaning": "To cause something; Completed in a timely manner; A sign to act upon; A time constraint",
+      "example": "What prompted you to get a puppy?"
+    },
+    {
+      "id": "w-044",
+      "type": "word",
+      "category": "Words",
+      "term": "Rapid",
+      "meaning": "Acting quickly or swiftly; A fast stream of water within a river",
+      "example": "Get this done rapidly."
+    },
+    {
+      "id": "w-045",
+      "type": "word",
+      "category": "Words",
+      "term": "Subtle",
+      "meaning": "Blending in but still holding a certain importance",
+      "example": "There was a subtle difference between the two drafts."
+    },
+    {
+      "id": "w-046",
+      "type": "word",
+      "category": "Words",
+      "term": "Applaud",
+      "meaning": "To clap; hitting your palms together",
+      "example": "I have to applaud you on all of your hard work."
+    },
+    {
+      "id": "w-047",
+      "type": "word",
+      "category": "Words",
+      "term": "Rehearse",
+      "meaning": "To practice before a performance or speech",
+      "example": "The band chose to rehearse one last time before the concert."
+    },
+    {
+      "id": "w-048",
+      "type": "word",
+      "category": "Words",
+      "term": "Guilt",
+      "meaning": "Feeling responsible for an unfortunate event",
+      "example": "After sneaking out of the house, Nicole felt extreme guilt."
+    },
+    {
+      "id": "w-049",
+      "type": "word",
+      "category": "Words",
+      "term": "Verdict",
+      "meaning": "An official result or outcome",
+      "example": "What's the final verdict?"
+    },
+    {
+      "id": "w-050",
+      "type": "word",
+      "category": "Words",
+      "term": "Condemn",
+      "meaning": "Disapprove; to be strongly against",
+      "example": "There are many laws that condemn that sort of behavior."
+    },
+    {
+      "id": "w-051",
+      "type": "word",
+      "category": "Words",
+      "term": "Smuggle",
+      "meaning": "To secretly obtain something",
+      "example": "We smuggled snacks into the movie theater."
+    },
+    {
+      "id": "w-052",
+      "type": "word",
+      "category": "Words",
+      "term": "Cautious",
+      "meaning": "Avoiding risks and potential harm",
+      "example": "My sister is a cautious driver."
+    },
+    {
+      "id": "w-053",
+      "type": "word",
+      "category": "Words",
+      "term": "Envy",
+      "meaning": "To want something someone else has",
+      "example": "I envy her ability to sing."
+    },
+    {
+      "id": "w-054",
+      "type": "word",
+      "category": "Words",
+      "term": "Fond",
+      "meaning": "Showing a liking to",
+      "example": "She is very fond of this game."
+    },
+    {
+      "id": "w-055",
+      "type": "word",
+      "category": "Words",
+      "term": "Coward",
+      "meaning": "A person who lacks bravery or courage",
+      "example": "Kaleb wouldn't eat a ghost pepper, he's too much of a coward."
+    },
+    {
+      "id": "w-056",
+      "type": "word",
+      "category": "Words",
+      "term": "Dread",
+      "meaning": "To not look forward to doing something",
+      "example": "I always dread going to the dentist."
+    },
+    {
+      "id": "w-057",
+      "type": "word",
+      "category": "Words",
+      "term": "Generous",
+      "meaning": "Happy and willing to give back time and resources",
+      "example": "The Humane Society relies on generous donors to stay open."
+    },
+    {
+      "id": "w-058",
+      "type": "word",
+      "category": "Words",
+      "term": "Boast",
+      "meaning": "To brag; to talk proudly about yourself",
+      "example": "I don't mean to boast, I'm just proud of how far I've come."
+    },
+    {
+      "id": "w-059",
+      "type": "word",
+      "category": "Words",
+      "term": "Sophisticated",
+      "meaning": "Having a lot of experience and knowledge; advanced",
+      "example": "The Queen of England has a very sophisticated way of life."
+    },
+    {
+      "id": "w-060",
+      "type": "word",
+      "category": "Words",
+      "term": "Stubborn",
+      "meaning": "Not easily persuaded; stuck in a specific mindset",
+      "example": "What made you so stubborn?"
+    },
+    {
+      "id": "w-061",
+      "type": "word",
+      "category": "Words",
+      "term": "Admire",
+      "meaning": "To respect someone because of the things they've done or the way they act",
+      "example": "I admire you for your patience."
+    },
+    {
+      "id": "w-062",
+      "type": "word",
+      "category": "Words",
+      "term": "Cruel",
+      "meaning": "Being unkind on purpose",
+      "example": "Don't be cruel."
+    },
+    {
+      "id": "w-063",
+      "type": "word",
+      "category": "Words",
+      "term": "Detest",
+      "meaning": "To largely dislike",
+      "example": "After their fight, Romeo detests Juliet."
+    },
+    {
+      "id": "w-064",
+      "type": "word",
+      "category": "Words",
+      "term": "Elegant",
+      "meaning": "Simply beautiful; timeless",
+      "example": "The wedding turned out very elegant and amazing."
+    },
+    {
+      "id": "w-065",
+      "type": "word",
+      "category": "Words",
+      "term": "Modest",
+      "meaning": "Moderate; not drawing attention",
+      "example": "Her style tends to be very modest."
+    },
+    {
+      "id": "w-066",
+      "type": "word",
+      "category": "Words",
+      "term": "Relief",
+      "meaning": "A feeling of easement; an alleviation",
+      "example": "Mallory uttered a sigh of relief once her exam was over."
+    },
+    {
+      "id": "w-067",
+      "type": "word",
+      "category": "Words",
+      "term": "Bitter",
+      "meaning": "Generally unhappy or unpleasant",
+      "example": "Ronald is the bitter old man that lives across the street."
+    },
+    {
+      "id": "w-068",
+      "type": "word",
+      "category": "Words",
+      "term": "Bland",
+      "meaning": "Lacking taste or anything special",
+      "example": "The sandwich was a little bland."
+    },
+    {
+      "id": "w-069",
+      "type": "word",
+      "category": "Words",
+      "term": "Fatigue",
+      "meaning": "Immense tired feeling",
+      "example": "After working a 12-hour shift, the nurse was filled with fatigue."
+    },
+    {
+      "id": "w-070",
+      "type": "word",
+      "category": "Words",
+      "term": "Immune",
+      "meaning": "Unaffected by a problem, illness, or occurrence",
+      "example": "Luna hopes to be immune to the disease after enduring it once."
+    },
+    {
+      "id": "w-071",
+      "type": "word",
+      "category": "Words",
+      "term": "Paralyze",
+      "meaning": "To cause a person or object to be immoveable",
+      "example": "The haunted house paralyzed her with fear."
+    },
+    {
+      "id": "w-072",
+      "type": "word",
+      "category": "Words",
+      "term": "Appetite",
+      "meaning": "The amount of desire for a specific food or activity",
+      "example": "He has an appetite for waffles every morning."
+    },
+    {
+      "id": "w-073",
+      "type": "word",
+      "category": "Words",
+      "term": "Conscious",
+      "meaning": "Able to understand what is going on around you; mentally aware",
+      "example": "Be conscious of how your words might affect her."
+    },
+    {
+      "id": "w-074",
+      "type": "word",
+      "category": "Words",
+      "term": "Diagnose",
+      "meaning": "To determine the cause or reason something happened; examine to find the cause of an illness",
+      "example": "It took a very long time to diagnose the issue."
+    },
+    {
+      "id": "w-075",
+      "type": "word",
+      "category": "Words",
+      "term": "Fatal",
+      "meaning": "Detrimental to someone's health and wellbeing",
+      "example": "Polly called to tell us she survived the fatal car crash."
+    },
+    {
+      "id": "w-076",
+      "type": "word",
+      "category": "Words",
+      "term": "Sanitary",
+      "meaning": "Clean; no threat to anyone's health",
+      "example": "The cabins were kept in sanitary condition."
+    },
+    {
+      "id": "w-077",
+      "type": "word",
+      "category": "Words",
+      "term": "Dose",
+      "meaning": "An amount of something to be administered or required",
+      "example": "The doctor made sure to administer the correct dose of morphine."
+    },
+    {
+      "id": "w-078",
+      "type": "word",
+      "category": "Words",
+      "term": "Slender",
+      "meaning": "Thin and long",
+      "example": "The model has a slender figure."
+    },
+    {
+      "id": "w-079",
+      "type": "word",
+      "category": "Words",
+      "term": "Suffer",
+      "meaning": "To be in pain mentally or physically",
+      "example": "Following her passing, we were comforted in that she would no longer suffer."
+    },
+    {
+      "id": "w-080",
+      "type": "word",
+      "category": "Words",
+      "term": "Trauma",
+      "meaning": "A scarring experience that can have a long-term effect on your mental state, physical injury",
+      "example": "Head traumas are very serious and require immediate medical attention."
+    },
+    {
+      "id": "w-081",
+      "type": "word",
+      "category": "Words",
+      "term": "Executive",
+      "meaning": "A person of importance within an organization; the one in charge; Dealing with the management of an organization",
+      "example": "The chief executive of Wonder Inc. contacted us last week."
+    },
+    {
+      "id": "w-082",
+      "type": "word",
+      "category": "Words",
+      "term": "Import",
+      "meaning": "A product sent from one country into another to be sold; To bring something into a place it hasn't been brought before",
+      "example": "Ships were arriving with a large supply of imports."
+    },
+    {
+      "id": "w-083",
+      "type": "word",
+      "category": "Words",
+      "term": "Affiliate",
+      "meaning": "Having and maintaining a connection; An entity that is connected with or run by another",
+      "example": "May no longer affiliates herself with that church."
+    },
+    {
+      "id": "w-084",
+      "type": "word",
+      "category": "Words",
+      "term": "Ambition",
+      "meaning": "An intense desire to get something done",
+      "example": "Her young heart was full of ambition."
+    },
+    {
+      "id": "w-085",
+      "type": "word",
+      "category": "Words",
+      "term": "Manufacture",
+      "meaning": "To mass produce materials or finished goods; The making of goods using a machine",
+      "example": "Nelli Industries plans to manufacture a large amount of dog toys this year."
+    },
+    {
+      "id": "w-086",
+      "type": "word",
+      "category": "Words",
+      "term": "Prosper",
+      "meaning": "To grow or experience great success",
+      "example": "The began to prosper under new leadership."
+    },
+    {
+      "id": "w-087",
+      "type": "word",
+      "category": "Words",
+      "term": "Surplus",
+      "meaning": "An amount of something that is more than what is needed; More than necessary",
+      "example": "The company experienced a surplus of goods after sales declined unexpectedly."
+    },
+    {
+      "id": "w-088",
+      "type": "word",
+      "category": "Words",
+      "term": "Venture",
+      "meaning": "A new activity having to do with business risks; To stray from the normal way",
+      "example": "Tanner Co. is planning a new business venture."
+    },
+    {
+      "id": "w-089",
+      "type": "word",
+      "category": "Words",
+      "term": "Exchange",
+      "meaning": "The gift of goods or words between people; To give something to someone and receive something back",
+      "example": "Our Christmas party always involves a gift exchange."
+    },
+    {
+      "id": "w-090",
+      "type": "word",
+      "category": "Words",
+      "term": "Valuable",
+      "meaning": "Important; worth a lot",
+      "example": "Don't lose track of those valuable jewels."
+    },
+    {
+      "id": "w-091",
+      "type": "word",
+      "category": "Words",
+      "term": "Afford",
+      "meaning": "To have enough money; to allow or supply",
+      "example": "Laura couldn't afford a new car."
+    },
+    {
+      "id": "w-092",
+      "type": "word",
+      "category": "Words",
+      "term": "Commute",
+      "meaning": "To travel; A specific route or distance",
+      "example": "I am looking forward to the commute to the beach."
+    },
+    {
+      "id": "w-093",
+      "type": "word",
+      "category": "Words",
+      "term": "Deduct",
+      "meaning": "To subtract; to remove a part of something",
+      "example": "That penalty deducted two points from their score."
+    },
+    {
+      "id": "w-094",
+      "type": "word",
+      "category": "Words",
+      "term": "Negotiate",
+      "meaning": "To talk to someone in attempt to persuade or come to an agreement",
+      "example": "Negotiate a new deal for us please."
+    },
+    {
+      "id": "w-095",
+      "type": "word",
+      "category": "Words",
+      "term": "Shortage",
+      "meaning": "When there is not enough of something",
+      "example": "The United States is currently experiencing a refrigerator shortage."
+    },
+    {
+      "id": "w-096",
+      "type": "word",
+      "category": "Words",
+      "term": "Enterprise",
+      "meaning": "A large company or activity",
+      "example": "Stark Enterprise is rising in the marketing industry."
+    },
+    {
+      "id": "w-097",
+      "type": "word",
+      "category": "Words",
+      "term": "Inherit",
+      "meaning": "To get something from someone",
+      "example": "Ella inherited her father's old truck after he passed."
+    },
+    {
+      "id": "w-098",
+      "type": "word",
+      "category": "Words",
+      "term": "Transaction",
+      "meaning": "A business procedure in which items or money are exchanged",
+      "example": "He prepared a statement for their transaction."
+    },
+    {
+      "id": "w-099",
+      "type": "word",
+      "category": "Words",
+      "term": "Appoint",
+      "meaning": "To choose or arrange for something to happen",
+      "example": "We appointed her as leader of the group."
+    },
+    {
+      "id": "w-100",
+      "type": "word",
+      "category": "Words",
+      "term": "Fare",
+      "meaning": "Something offered or paid",
+      "example": "The taxi fare was much cheaper than I expected."
+    },
+    {
+      "id": "w-101",
+      "type": "word",
+      "category": "Words",
+      "term": "Possess",
+      "meaning": "To have or to own",
+      "example": "Allison possesses the skills to create a beautiful work of art."
+    },
+    {
+      "id": "w-102",
+      "type": "word",
+      "category": "Words",
+      "term": "Supervise",
+      "meaning": "To be the head of something; in charge of overseeing activities",
+      "example": "Mom told me we need a babysitter to supervise us for the night."
+    },
+    {
+      "id": "w-103",
+      "type": "word",
+      "category": "Words",
+      "term": "Abundant",
+      "meaning": "A large amount of something",
+      "example": "New students are in abundant supply."
+    },
+    {
+      "id": "w-104",
+      "type": "word",
+      "category": "Words",
+      "term": "Erupt",
+      "meaning": "To suddenly explode or break out",
+      "example": "The crowd erupted into laughter."
+    },
+    {
+      "id": "w-105",
+      "type": "word",
+      "category": "Words",
+      "term": "Instinct",
+      "meaning": "A natural likelihood to behave a certain way",
+      "example": "Luckily, she has good instincts."
+    },
+    {
+      "id": "w-106",
+      "type": "word",
+      "category": "Words",
+      "term": "Shallow",
+      "meaning": "Occurring a small distance from the top",
+      "example": "Don't worry the water is shallow here."
+    },
+    {
+      "id": "w-107",
+      "type": "word",
+      "category": "Words",
+      "term": "Fluid",
+      "meaning": "A liquid substance; Flexible; easily changed",
+      "example": "My car is leaking fluid."
+    },
+    {
+      "id": "w-108",
+      "type": "word",
+      "category": "Words",
+      "term": "Marine",
+      "meaning": "Having to do with the ocean or water; A soldier who sails boats",
+      "example": "I used to have dreams of becoming a marine biologist."
+    },
+    {
+      "id": "w-109",
+      "type": "word",
+      "category": "Words",
+      "term": "Universe",
+      "meaning": "Our world; an area of space",
+      "example": "These are the best cookies in the universe."
+    },
+    {
+      "id": "w-110",
+      "type": "word",
+      "category": "Words",
+      "term": "Coast",
+      "meaning": "The place that the ocean meets the land; To move without effort",
+      "example": "Let's visit the Pacific coast."
+    },
+    {
+      "id": "w-111",
+      "type": "word",
+      "category": "Words",
+      "term": "Catastrophe",
+      "meaning": "A disaster; an unfortunate event",
+      "example": "That party was a catastrophe."
+    },
+    {
+      "id": "w-112",
+      "type": "word",
+      "category": "Words",
+      "term": "Decay",
+      "meaning": "To be destroyed over time, naturally or on purpose; An item in a state of destruction",
+      "example": "After death, the body begins to decay."
+    },
+    {
+      "id": "w-113",
+      "type": "word",
+      "category": "Words",
+      "term": "Extinct",
+      "meaning": "Something that no longer exists",
+      "example": "If we aren't careful, many endangered animals will become extinct."
+    },
+    {
+      "id": "w-114",
+      "type": "word",
+      "category": "Words",
+      "term": "Harbour",
+      "meaning": "A place where the water is calm enough for ships to be stored; To hold onto negativity for a long period of time",
+      "example": "There are at least twenty ships parked at the harbour."
+    },
+    {
+      "id": "w-115",
+      "type": "word",
+      "category": "Words",
+      "term": "Batch",
+      "meaning": "A group or set of specific items",
+      "example": "I just made a fresh batch of cookies!"
+    },
+    {
+      "id": "w-116",
+      "type": "word",
+      "category": "Words",
+      "term": "Privilege",
+      "meaning": "An advantage you are lucky to have; Giving someone or something better treatment",
+      "example": "That phone is a privilege, not a right."
+    },
+    {
+      "id": "w-117",
+      "type": "word",
+      "category": "Words",
+      "term": "Sensation",
+      "meaning": "The feeling something or someone provides",
+      "example": "Grace began to feel a tingling sensation in her legs after sitting for too long."
+    },
+    {
+      "id": "w-118",
+      "type": "word",
+      "category": "Words",
+      "term": "Situation",
+      "meaning": "A group of specific conditions that occur at once",
+      "example": "This is a sticky situation."
+    },
+    {
+      "id": "w-119",
+      "type": "word",
+      "category": "Words",
+      "term": "Tactic",
+      "meaning": "A specific way of achieving something",
+      "example": "What's the best note-taking tactic."
+    },
+    {
+      "id": "w-120",
+      "type": "word",
+      "category": "Words",
+      "term": "Texture",
+      "meaning": "The way something feels",
+      "example": "This brownie has a funny texture."
+    },
+    {
+      "id": "w-121",
+      "type": "word",
+      "category": "Words",
+      "term": "Aftermath",
+      "meaning": "Period after an event occurs",
+      "example": "The aftermath of the hurricane is devastating."
+    },
+    {
+      "id": "w-122",
+      "type": "word",
+      "category": "Words",
+      "term": "Quality",
+      "meaning": "The standard of how good or bad something is; Especially good",
+      "example": "Please use high quality materials on this project."
+    },
+    {
+      "id": "w-123",
+      "type": "word",
+      "category": "Words",
+      "term": "Reputation",
+      "meaning": "A person's appearance from others' point of view based on actions",
+      "example": "She has a reputation for being easily convincible."
+    },
+    {
+      "id": "w-124",
+      "type": "word",
+      "category": "Words",
+      "term": "Stake",
+      "meaning": "A wooden rod or post; To place value in or on something as a risk",
+      "example": "The tent had so many stakes holding it in the ground, but it still blew away."
+    },
+    {
+      "id": "w-125",
+      "type": "word",
+      "category": "Words",
+      "term": "Collision",
+      "meaning": "An accident involving a crash of two items",
+      "example": "She survived a head-on collision."
+    },
+    {
+      "id": "w-126",
+      "type": "word",
+      "category": "Words",
+      "term": "Basis",
+      "meaning": "Facts that something is backed up with or built upon",
+      "example": "We are on a first-name basis."
+    },
+    {
+      "id": "w-127",
+      "type": "word",
+      "category": "Words",
+      "term": "Fixture",
+      "meaning": "A permanent piece of equipment or furniture",
+      "example": "The bench dedicated to John Doe after his passing is a fixture of the area."
+    },
+    {
+      "id": "w-128",
+      "type": "word",
+      "category": "Words",
+      "term": "Hazard",
+      "meaning": "Something deemed to be unsafe or harmful; To give something a go",
+      "example": "Gasoline next to an open flame is a fire hazard."
+    },
+    {
+      "id": "w-129",
+      "type": "word",
+      "category": "Words",
+      "term": "Summit",
+      "meaning": "Peak; an important meeting",
+      "example": "The European summit is set to occur in May this year."
+    },
+    {
+      "id": "w-130",
+      "type": "word",
+      "category": "Words",
+      "term": "Temper",
+      "meaning": "Easily angered individual; To lessen the severity",
+      "example": "Polly is very hot tempered."
+    },
+    {
+      "id": "w-131",
+      "type": "word",
+      "category": "Words",
+      "term": "Access",
+      "meaning": "The permission to do a specific action; To find or acquire",
+      "example": "The top-secret lab has limited access."
+    },
+    {
+      "id": "w-132",
+      "type": "word",
+      "category": "Words",
+      "term": "Outline",
+      "meaning": "A plan with the main points, excluding many details; To sketch around an edge; to generally describe without details",
+      "example": "The professor required us to write an outline of the paper before we began."
+    },
+    {
+      "id": "w-133",
+      "type": "word",
+      "category": "Words",
+      "term": "Paste",
+      "meaning": "To place something on with glue; A mixture that can be spread and used to attach something",
+      "example": "I pasted the magazine cutouts onto my art project."
+    },
+    {
+      "id": "w-134",
+      "type": "word",
+      "category": "Words",
+      "term": "Slump",
+      "meaning": "To fall or lean due to a lack of strength; A sudden decrease",
+      "example": "He slumped against the wall after she rejected her."
+    },
+    {
+      "id": "w-135",
+      "type": "word",
+      "category": "Words",
+      "term": "Discipline",
+      "meaning": "A way to correct behaviors and train new ones; To punish bad behaviors",
+      "example": "My mom had to buy a book about discipline for kids who are strong-willed."
+    },
+    {
+      "id": "w-136",
+      "type": "word",
+      "category": "Words",
+      "term": "Scrap",
+      "meaning": "A small piece of something; To get rid of",
+      "example": "Can I have a scrap of paper to write down your email?"
+    },
+    {
+      "id": "w-137",
+      "type": "word",
+      "category": "Words",
+      "term": "Stroll",
+      "meaning": "To walk slowly; A slow walk",
+      "example": "Grandma and I strolled in the park this evening."
+    },
+    {
+      "id": "w-138",
+      "type": "word",
+      "category": "Words",
+      "term": "Appeal",
+      "meaning": "An urgent attempt to acquire something; To make a formal statement as a request",
+      "example": "May I make an appeal to the court?"
+    },
+    {
+      "id": "w-139",
+      "type": "word",
+      "category": "Words",
+      "term": "Concern",
+      "meaning": "A worried feeling",
+      "example": "Rene felt her brother's odd behavior was cause for concern."
+    },
+    {
+      "id": "w-140",
+      "type": "word",
+      "category": "Words",
+      "term": "Groan",
+      "meaning": "To make a sound signaling distress, disgust, discomfort, or another negative feeling; A sound made when someone is upset or unsatisfied",
+      "example": "She groaned with disgust."
+    },
+    {
+      "id": "w-141",
+      "type": "word",
+      "category": "Words",
+      "term": "Mention",
+      "meaning": "To bring up or write something without details; A direct reference",
+      "example": "I forgot to mention my fear of spiders."
+    },
+    {
+      "id": "w-142",
+      "type": "word",
+      "category": "Words",
+      "term": "Scrape",
+      "meaning": "To get rid of using a sharp edge; A small wound caused by something sharp or rough",
+      "example": "Scrape your plate off before you put it in the dishwasher."
+    },
+    {
+      "id": "w-143",
+      "type": "word",
+      "category": "Words",
+      "term": "Delight",
+      "meaning": "A general feeling of pleasure or enjoyment; To create a feeling of satisfaction",
+      "example": "What a delight she is!"
+    },
+    {
+      "id": "w-144",
+      "type": "word",
+      "category": "Words",
+      "term": "Gaze",
+      "meaning": "To look at something from afar for a long period of time, stare; A long, unchanging look",
+      "example": "Sara gazed across the room."
+    },
+    {
+      "id": "w-145",
+      "type": "word",
+      "category": "Words",
+      "term": "Pressure",
+      "meaning": "An attempt to influence someone else using persuasion or threats; To try and convince someone to do something because they should",
+      "example": "The athletes felt an immense amount of pressure from their fans."
+    },
+    {
+      "id": "w-146",
+      "type": "word",
+      "category": "Words",
+      "term": "Rival",
+      "meaning": "An opposing person or group in competition; To level up to; become as good as",
+      "example": "Our hometown has a game against their rivals this weekend."
+    },
+    {
+      "id": "w-147",
+      "type": "word",
+      "category": "Words",
+      "term": "Surface",
+      "meaning": "The top level only; not deep; To bring about; make easier to notice",
+      "example": "Their relationship is nothing but surface level."
+    },
+    {
+      "id": "w-148",
+      "type": "word",
+      "category": "Words",
+      "term": "Escort",
+      "meaning": "To accompany someone to a specific place, guide",
+      "example": "Let me escort you to the door."
+    },
+    {
+      "id": "w-149",
+      "type": "word",
+      "category": "Words",
+      "term": "Growl",
+      "meaning": "A long deep snarl sound",
+      "example": "Zeus growled at me when I tried to pet him."
+    },
+    {
+      "id": "w-150",
+      "type": "word",
+      "category": "Words",
+      "term": "Launch",
+      "meaning": "To cause the start of something large or important; The release of a new product or event",
+      "example": "The rocket launched at noon."
+    },
+    {
+      "id": "w-151",
+      "type": "word",
+      "category": "Words",
+      "term": "Position",
+      "meaning": "How someone is placed either physically or figuratively; To place in a specific fashion",
+      "example": "This decision has put her in a difficult position."
+    },
+    {
+      "id": "w-152",
+      "type": "word",
+      "category": "Words",
+      "term": "Review",
+      "meaning": "When a situation or idea is closely examined; To reexamine; look at again for clarity or improvement",
+      "example": "Professor Dunn gave us a super long math review."
+    },
+    {
+      "id": "w-153",
+      "type": "word",
+      "category": "Words",
+      "term": "Support",
+      "meaning": "To provide evidence or assistance; to agree; Assistance or encouragement",
+      "example": "That beam supports the structure of the house."
+    },
+    {
+      "id": "w-154",
+      "type": "word",
+      "category": "Words",
+      "term": "Wreck",
+      "meaning": "To ruin something; An event in which something sustains a large amount of damage",
+      "example": "Why did you wreck my office?"
+    },
+    {
+      "id": "w-155",
+      "type": "word",
+      "category": "Words",
+      "term": "Delay",
+      "meaning": "Something that causes someone to wait; the time required to wait; To cause something to take longer",
+      "example": "The Chiefs game is experiencing a rain delay."
+    },
+    {
+      "id": "w-156",
+      "type": "word",
+      "category": "Words",
+      "term": "Filter",
+      "meaning": "Something used to only allow certain materials through; To remove unwanted materials",
+      "example": "You need a coffee filter, so the grounds don't get into the mug."
+    },
+    {
+      "id": "w-157",
+      "type": "word",
+      "category": "Words",
+      "term": "Limp",
+      "meaning": "Flimsy or weak; To walk unsteadily due to an injury; A difficulty walking",
+      "example": "Starting a job interview with a limp handshake is not a good idea."
+    },
+    {
+      "id": "w-158",
+      "type": "word",
+      "category": "Words",
+      "term": "Plague",
+      "meaning": "An incurable, easily spreadable disease; To inflict pain or trouble",
+      "example": "The Bubonic Plague was a terrible tragedy in Europe."
+    },
+    {
+      "id": "w-159",
+      "type": "word",
+      "category": "Words",
+      "term": "Yield",
+      "meaning": "To produce; The amount produced",
+      "example": "This recipe yields 4 servings."
+    },
+    {
+      "id": "w-160",
+      "type": "word",
+      "category": "Words",
+      "term": "Burden",
+      "meaning": "Something especially hard; To be given something difficult",
+      "example": "Don't ever feel like a burden."
+    },
+    {
+      "id": "w-161",
+      "type": "word",
+      "category": "Words",
+      "term": "Switch",
+      "meaning": "To change from one thing to another; A change",
+      "example": "She switched places with Nicole at the last second."
+    },
+    {
+      "id": "w-162",
+      "type": "word",
+      "category": "Words",
+      "term": "Bundle",
+      "meaning": "A group of items that are connected or belong together; To push together quickly",
+      "example": "What a pretty bundle of flowers."
+    },
+    {
+      "id": "w-163",
+      "type": "word",
+      "category": "Words",
+      "term": "Fragment",
+      "meaning": "A piece of something; To break into smaller parts",
+      "example": "Honey, that fragment of a blanket needs to be thrown away."
+    },
+    {
+      "id": "w-164",
+      "type": "word",
+      "category": "Words",
+      "term": "Permit",
+      "meaning": "To let happen; allow; A statement granting access or giving the right to do something",
+      "example": "You are no longer permitted on this property"
+    },
+    {
+      "id": "w-165",
+      "type": "word",
+      "category": "Words",
+      "term": "Sacrifice",
+      "meaning": "A decision to give up something to gain something else; To give up something of importance for something even more significant",
+      "example": "Mom made the tough sacrifice of missing her favorite show to be here."
+    },
+    {
+      "id": "w-166",
+      "type": "word",
+      "category": "Words",
+      "term": "Shock",
+      "meaning": "A state of being surprised or stunned; To be surprised or shocked by something",
+      "example": "It was a huge shock to everyone that she chose to attend Missouri State."
+    },
+    {
+      "id": "w-167",
+      "type": "word",
+      "category": "Words",
+      "term": "Smash",
+      "meaning": "To violently break or hit something; The sound made when something breaks",
+      "example": "Please don't smash this vase it was my grandmother's."
+    },
+    {
+      "id": "w-168",
+      "type": "word",
+      "category": "Words",
+      "term": "Decrease",
+      "meaning": "To become less; The amount by which something reduces",
+      "example": "Let's decrease our carbon footprint by at least 3% this year."
+    },
+    {
+      "id": "w-169",
+      "type": "word",
+      "category": "Words",
+      "term": "Influence",
+      "meaning": "The power to cause change to someone or something else; To indirectly affect how someone or something acts",
+      "example": "Darcy isn't the bet influence on you, she smokes cigarettes."
+    },
+    {
+      "id": "w-170",
+      "type": "word",
+      "category": "Words",
+      "term": "Humour",
+      "meaning": "Something funny; a quality that makes people laugh; To pretend to like doing something to please someone else",
+      "example": "That movie wasn't really my kind of humour."
+    },
+    {
+      "id": "w-171",
+      "type": "word",
+      "category": "Words",
+      "term": "Preview",
+      "meaning": "A viewing of something before it is public; To see before anyone else",
+      "example": "The exclusive movie preview was successful."
+    },
+    {
+      "id": "w-172",
+      "type": "word",
+      "category": "Words",
+      "term": "Service",
+      "meaning": "The help or assistance offered; To provide assistance or help",
+      "example": "The bottle service was excellent."
+    },
+    {
+      "id": "w-173",
+      "type": "word",
+      "category": "Words",
+      "term": "Struggle",
+      "meaning": "To experience difficulty doing something; An experience in which you face difficulty",
+      "example": "Miles and his family are struggling to find a good daycare."
+    },
+    {
+      "id": "w-174",
+      "type": "word",
+      "category": "Words",
+      "term": "Treasure",
+      "meaning": "A collection of valuable items; To hold something in high regard",
+      "example": "The pirates of Neverland finally located the buried treasure."
+    },
+    {
+      "id": "w-175",
+      "type": "word",
+      "category": "Words",
+      "term": "Torch",
+      "meaning": "A flashlight or small light source; To purposely set on fire",
+      "example": "He held out a torch in the cave so that they could see."
+    },
+    {
+      "id": "w-176",
+      "type": "word",
+      "category": "Words",
+      "term": "Blaze",
+      "meaning": "A large fire; To burn intensely",
+      "example": "The blaze in the field was out of control."
+    },
+    {
+      "id": "w-177",
+      "type": "word",
+      "category": "Words",
+      "term": "Brew",
+      "meaning": "To make a drink; A drink made by brewing",
+      "example": "Can you brew a fresh pot of coffee?"
+    },
+    {
+      "id": "w-178",
+      "type": "word",
+      "category": "Words",
+      "term": "Command",
+      "meaning": "An order to be followed; To gain control of something",
+      "example": "He is second in command."
+    },
+    {
+      "id": "w-179",
+      "type": "word",
+      "category": "Words",
+      "term": "Glance",
+      "meaning": "To look over quickly; A quick look over",
+      "example": "I took a glance at the menu."
+    },
+    {
+      "id": "w-180",
+      "type": "word",
+      "category": "Words",
+      "term": "Relay",
+      "meaning": "To pass along a message",
+      "example": "He relayed the news to me."
+    },
+    {
+      "id": "w-181",
+      "type": "word",
+      "category": "Words",
+      "term": "Request",
+      "meaning": "A formal demand; To ask formally",
+      "example": "I will put in a request for your transfer."
+    },
+    {
+      "id": "w-182",
+      "type": "word",
+      "category": "Words",
+      "term": "Salute",
+      "meaning": "To give respect to someone; An act of respect",
+      "example": "I saluted the Colonel."
+    },
+    {
+      "id": "w-183",
+      "type": "word",
+      "category": "Words",
+      "term": "Span",
+      "meaning": "A length of time in between; To spread out across a period of time",
+      "example": "Over the span of many years, Logan's Spanish has improved."
+    },
+    {
+      "id": "w-184",
+      "type": "word",
+      "category": "Words",
+      "term": "Tangle",
+      "meaning": "To get twisted together; A twisted mess",
+      "example": "Her hair was tangled from the wind."
+    },
+    {
+      "id": "w-185",
+      "type": "word",
+      "category": "Words",
+      "term": "Voyage",
+      "meaning": "A journey taken by ship or spacecraft; To take a journey",
+      "example": "Long ago, the Mayflower took its maiden voyage."
+    },
+    {
+      "id": "w-186",
+      "type": "word",
+      "category": "Words",
+      "term": "Glare",
+      "meaning": "To look at someone angrily; An angry look or bright light",
+      "example": "I don't know why she's glaring at me."
+    },
+    {
+      "id": "w-187",
+      "type": "word",
+      "category": "Words",
+      "term": "Increase",
+      "meaning": "To raise up; A rise in something",
+      "example": "Gas prices have continued to increase this year."
+    },
+    {
+      "id": "w-188",
+      "type": "word",
+      "category": "Words",
+      "term": "Remark",
+      "meaning": "An opinion or statement; To give an opinion or statement",
+      "example": "What a rude remark!"
+    },
+    {
+      "id": "w-189",
+      "type": "word",
+      "category": "Words",
+      "term": "Thrill",
+      "meaning": "A sudden feeling of happiness; To make someone feel happy",
+      "example": "That rollercoaster was such a thrill!"
+    },
+    {
+      "id": "w-190",
+      "type": "word",
+      "category": "Words",
+      "term": "Balance",
+      "meaning": "A state in which your weight is equal on all sides; To distribute your weight evenly",
+      "example": "Ballerinas must have good balance."
+    },
+    {
+      "id": "w-191",
+      "type": "word",
+      "category": "Words",
+      "term": "Beam",
+      "meaning": "A bright light line; a long piece of wood; To light up with happiness",
+      "example": "The flashlight emits a long beam of light."
+    },
+    {
+      "id": "w-192",
+      "type": "word",
+      "category": "Words",
+      "term": "Figure",
+      "meaning": "A number dealing with a specific amount; To form an opinion",
+      "example": "The figures this month are looking pretty good."
+    },
+    {
+      "id": "w-193",
+      "type": "word",
+      "category": "Words",
+      "term": "Wonder",
+      "meaning": "To think over in order to make a guess; A feeling of awe; Extremely effective",
+      "example": "I wonder what she's going to do this evening."
+    },
+    {
+      "id": "w-194",
+      "type": "word",
+      "category": "Words",
+      "term": "Duplicate",
+      "meaning": "To make an exact copy; An exact copy; replica; Made to be an exact copy",
+      "example": "It's hard to duplicate the feeling you get on Christmas morning."
+    },
+    {
+      "id": "w-195",
+      "type": "word",
+      "category": "Words",
+      "term": "Forecast",
+      "meaning": "A prediction of the future; To predict future events",
+      "example": "Check the weather forecast before you go."
+    },
+    {
+      "id": "w-196",
+      "type": "word",
+      "category": "Words",
+      "term": "Glimpse",
+      "meaning": "A quick look not allowing you to see a clear picture; To see someone or something for a brief moment",
+      "example": "I only caught a glimpse of the robber before he escaped."
+    },
+    {
+      "id": "w-197",
+      "type": "word",
+      "category": "Words",
+      "term": "Recruit",
+      "meaning": "To get new people involved; A person that has joined",
+      "example": "We need to recruit some more volunteers."
+    },
+    {
+      "id": "w-198",
+      "type": "word",
+      "category": "Words",
+      "term": "Update",
+      "meaning": "To provide the most recent information; The most recent piece of information",
+      "example": "Jamie will be updating us on the road conditions this morning."
+    },
+    {
+      "id": "w-199",
+      "type": "word",
+      "category": "Words",
+      "term": "Experience",
+      "meaning": "Obtained knowledge gained from practice; To go through something",
+      "example": "What an odd experience."
+    },
+    {
+      "id": "w-200",
+      "type": "word",
+      "category": "Words",
+      "term": "Catalogue",
+      "meaning": "A list composed of similar items; To make a list of a specific group of items",
+      "example": "Please find me a good furniture catalogue."
+    },
+    {
+      "id": "pv-001",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Aim At",
+      "meaning": "To point at a specific target",
+      "example": "It is important to never aim at a person when at the gun range."
+    },
+    {
+      "id": "pv-002",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Back Down",
+      "meaning": "To surrender your claim or position",
+      "example": "Don't back down when he challenges you."
+    },
+    {
+      "id": "pv-003",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Beef Up",
+      "meaning": "To make better or bigger",
+      "example": "Let's beef up this resume to help Carter get a job."
+    },
+    {
+      "id": "pv-004",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Blow Off",
+      "meaning": "When the wind moves something from its original place",
+      "example": "Make sure the napkins don't blow off the table."
+    },
+    {
+      "id": "pv-005",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Blow Out",
+      "meaning": "To put out a flame",
+      "example": "I can't wait to blow out my birthday candles and make a wish."
+    },
+    {
+      "id": "pv-006",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Boil Down To",
+      "meaning": "To determine a specific conclusion or reasoning",
+      "example": "I think what it boils down to is her unwillingness to compromise."
+    },
+    {
+      "id": "pv-007",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Break Down",
+      "meaning": "When someone is mentally exhausted or frustrated",
+      "example": "All of these events happening at once has caused her to have a break down."
+    },
+    {
+      "id": "pv-008",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Break Through",
+      "meaning": "To create a path through",
+      "example": "You're going to have to break through this door to get inside the burning building."
+    },
+    {
+      "id": "pv-009",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Break Up",
+      "meaning": "To stop something from happening",
+      "example": "Officer Brown had to break up a fight at the high school."
+    },
+    {
+      "id": "pv-010",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Bring Up",
+      "meaning": "To carry or take something low to a higher place",
+      "example": "Can you bring up that table from downstairs?"
+    },
+    {
+      "id": "pv-011",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Brush Off",
+      "meaning": "To get rid of with your hand",
+      "example": "Let's brush off that dirt on your pants and get going."
+    },
+    {
+      "id": "pv-012",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Brush Up",
+      "meaning": "To review a particular skill or piece of knowledge you haven't used in awhile",
+      "example": "Brush up on your dinosaur facts before we go to the museum."
+    },
+    {
+      "id": "pv-013",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Build In/Into",
+      "meaning": "To construct something in a certain place",
+      "example": "People often purchase homes with shelving that was built in."
+    },
+    {
+      "id": "pv-014",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Burn Down",
+      "meaning": "When fire is used to destroy something",
+      "example": "Why did they burn down the abandoned amusement park?"
+    },
+    {
+      "id": "pv-015",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Burn Up",
+      "meaning": "To be destroyed with fire",
+      "example": "Burn up this wood in the fireplace to keep warm."
+    },
+    {
+      "id": "pv-016",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Burst Out",
+      "meaning": "To say something suddenly or out of the blue",
+      "example": "She burst out the answer before the class could figure it out."
+    },
+    {
+      "id": "pv-017",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Butt In",
+      "meaning": "To insert yourself into a conversation or event",
+      "example": "I hate to butt in on your conversation, but did you say something about dragons?"
+    },
+    {
+      "id": "pv-018",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Call Back",
+      "meaning": "To call again",
+      "example": "Let me call you back after lunch."
+    },
+    {
+      "id": "pv-019",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Call In",
+      "meaning": "To request someone's presence",
+      "example": "I really hope they don't call me in to work on my day off."
+    },
+    {
+      "id": "pv-020",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Care For",
+      "meaning": "To be responsible for someone's wellbeing",
+      "example": "I will care for my sister's dog while she's away."
+    },
+    {
+      "id": "pv-021",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Carry Away",
+      "meaning": "To act on emotions when doing something",
+      "example": "Don't get too carried away decorating for Halloween."
+    },
+    {
+      "id": "pv-022",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Carry On",
+      "meaning": "To continue",
+      "example": "I could barely carry on after my husband's passing."
+    },
+    {
+      "id": "pv-023",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Carry Out",
+      "meaning": "To move from one place to another",
+      "example": "Let me carry this bag of ice out of here for you."
+    },
+    {
+      "id": "pv-024",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Catch On",
+      "meaning": "To eventually realize something",
+      "example": "Someday he'll catch on when his brother tells inappropriate jokes, but he's too young."
+    },
+    {
+      "id": "pv-025",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Catch Up",
+      "meaning": "To get closer to something that became far away",
+      "example": "We need to catch up to Larry's car."
+    },
+    {
+      "id": "pv-026",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Chicken Out",
+      "meaning": "To get too scared to do something",
+      "example": "We went zip lining, but Grace chickened out before it was her turn."
+    },
+    {
+      "id": "pv-027",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Clear Up",
+      "meaning": "To solve a misunderstanding or issue",
+      "example": "Jo thought I was mad, so I had to clear things up with her."
+    },
+    {
+      "id": "pv-028",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Clog Up",
+      "meaning": "To prevent something from coming through",
+      "example": "The accident clogged up the intersection."
+    },
+    {
+      "id": "pv-029",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Close Off",
+      "meaning": "To block something",
+      "example": "The cones on the road closed off one lane."
+    },
+    {
+      "id": "pv-030",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Come About",
+      "meaning": "To happen or occur",
+      "example": "How did this come about?"
+    },
+    {
+      "id": "pv-031",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Come Across",
+      "meaning": "The way something is perceived; to move sides",
+      "example": "Come across the street to my house."
+    },
+    {
+      "id": "pv-032",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Come Apart",
+      "meaning": "To break into pieces",
+      "example": "The glue didn't hold, so her scrapbook started to come apart."
+    },
+    {
+      "id": "pv-033",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Come Down To",
+      "meaning": "To narrow down a situation",
+      "example": "It's come down to three contestants left."
+    },
+    {
+      "id": "pv-034",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Come Down With",
+      "meaning": "To become ill or experience symptoms of an illness",
+      "example": "Jay is starting to come down with a cold."
+    },
+    {
+      "id": "pv-035",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Come Off",
+      "meaning": "When something is removed; how something is perceived",
+      "example": "She can come off a little rude, but she means well."
+    },
+    {
+      "id": "pv-036",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Come Through",
+      "meaning": "To arrive expectedly; to cause a result",
+      "example": "I knew you would come through on your way to the city."
+    },
+    {
+      "id": "pv-037",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Come Up With",
+      "meaning": "To think of something",
+      "example": "We have to come up with a plan."
+    },
+    {
+      "id": "pv-038",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Con Into",
+      "meaning": "To deceptively convince someone to do something",
+      "example": "I got conned into driving everyone tonight."
+    },
+    {
+      "id": "pv-039",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Con Out Of",
+      "meaning": "To convince someone to give you something by lying",
+      "example": "Heather conned me out of my last piece of gum."
+    },
+    {
+      "id": "pv-040",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Cross Off",
+      "meaning": "To mark as complete",
+      "example": "I can cross washing my car off todays to do list."
+    },
+    {
+      "id": "pv-041",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Cut Back",
+      "meaning": "To reduce",
+      "example": "Dolly had to cut back on spending this month to save money for her trip."
+    },
+    {
+      "id": "pv-042",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Cut Down",
+      "meaning": "To lessen something",
+      "example": "I watched them cut down that giant tree in our neighborhood."
+    },
+    {
+      "id": "pv-043",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Do Away With",
+      "meaning": "To get rid of something",
+      "example": "How about we do away with her pacifier once she starts teething."
+    },
+    {
+      "id": "pv-044",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Do Over",
+      "meaning": "To do again in a better way",
+      "example": "Can I get a do over on that date?"
+    },
+    {
+      "id": "pv-045",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Do Without",
+      "meaning": "To be fine without",
+      "example": "I could do without the yelling please."
+    },
+    {
+      "id": "pv-046",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Doze Off",
+      "meaning": "To fall asleep on accident",
+      "example": "Todd dozed off on the couch while watching football."
+    },
+    {
+      "id": "pv-047",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Dress Up",
+      "meaning": "To look good or more formal",
+      "example": "Let's dress up in costume for the party."
+    },
+    {
+      "id": "pv-048",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Drop In",
+      "meaning": "To come by unexpectedly",
+      "example": "I hope you don't mind that I dropped in while I was in the area."
+    },
+    {
+      "id": "pv-049",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Dry Out",
+      "meaning": "To take away all water or liquid",
+      "example": "We set the towels down to dry out."
+    },
+    {
+      "id": "pv-050",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Eat Up",
+      "meaning": "To consume all of",
+      "example": "Kenna told her to eat up her vegetables to get stronger."
+    },
+    {
+      "id": "pv-051",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Empty Out",
+      "meaning": "To remove all items from",
+      "example": "Empty out your backpack at the end of the year."
+    },
+    {
+      "id": "pv-052",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "End Up",
+      "meaning": "The way something finishes",
+      "example": "Harold may end up at my place tomorrow."
+    },
+    {
+      "id": "pv-053",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Fall Behind",
+      "meaning": "To progress slower than the rest",
+      "example": "I started to fall behind in my classes."
+    },
+    {
+      "id": "pv-054",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Fall Out",
+      "meaning": "To drop down",
+      "example": "Make sure nothing fell out of the cart on our walk to the car."
+    },
+    {
+      "id": "pv-055",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Fall Through",
+      "meaning": "To be cancelled; to fail",
+      "example": "I hate it when plans fall through."
+    },
+    {
+      "id": "pv-056",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Feel Up To",
+      "meaning": "To feel well enough to participate",
+      "example": "Abby doesn't feel up to going out tonight after being sick this week."
+    },
+    {
+      "id": "pv-057",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Fill Out",
+      "meaning": "To complete or finish",
+      "example": "I will have you fill out this form before you go."
+    },
+    {
+      "id": "pv-058",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Flip Out",
+      "meaning": "To get uncontrollably angry",
+      "example": "After the week she's had, I don't blame her for flipping out when she came home to a mess."
+    },
+    {
+      "id": "pv-059",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Follow Up",
+      "meaning": "To do more investigating",
+      "example": "Please follow up with me after taking your medicine for two weeks."
+    },
+    {
+      "id": "pv-060",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Get Along",
+      "meaning": "To be able to do; to interact well with others",
+      "example": "He should get along fine."
+    },
+    {
+      "id": "pv-061",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Get Back",
+      "meaning": "To return somewhere",
+      "example": "Get back over here."
+    },
+    {
+      "id": "pv-062",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Get Back To",
+      "meaning": "To return an answer or fulfill a request",
+      "example": "I will get back to you first thing tomorrow with that."
+    },
+    {
+      "id": "pv-063",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Get Behind",
+      "meaning": "To support; to be slower than others",
+      "example": "Breakfast for dinner is something I can get behind."
+    },
+    {
+      "id": "pv-064",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Get By",
+      "meaning": "To survive; to pass",
+      "example": "Her dad barely makes enough for their family to get by."
+    },
+    {
+      "id": "pv-065",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Get Over",
+      "meaning": "To stop being upset about; to clear an obstacle",
+      "example": "I wasn't sure if he would get over that last hurdle."
+    },
+    {
+      "id": "pv-066",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Get Through",
+      "meaning": "To understand; to finish; to endure",
+      "example": "You will get through this semester I promise."
+    },
+    {
+      "id": "pv-067",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Get Together",
+      "meaning": "To meet up for a specific reason; to gather",
+      "example": "Let's get together this weekend for lunch."
+    },
+    {
+      "id": "pv-068",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Give In",
+      "meaning": "To accept defeat",
+      "example": "His mom was disappointed that he gave in to peer pressure."
+    },
+    {
+      "id": "pv-069",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Give Out",
+      "meaning": "To produce or distribute",
+      "example": "They're giving out coupons in the local newspaper."
+    },
+    {
+      "id": "pv-070",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Go About",
+      "meaning": "To act normally; to follow the correct process to get something done",
+      "example": "The news anchor advised us to go about our day as normal even with a criminal on the loose."
+    },
+    {
+      "id": "pv-071",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Go After",
+      "meaning": "To follow even if it's difficult",
+      "example": "Reba had to go after her dog when it escaped from her backyard."
+    },
+    {
+      "id": "pv-072",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Go Along With",
+      "meaning": "To agree with in order to avoid conflict",
+      "example": "Just go along with his plan so he doesn't freak out."
+    },
+    {
+      "id": "pv-073",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Go Beyond",
+      "meaning": "To do more than what is expected of you",
+      "example": "I commend your work; you always go beyond what I ask of you."
+    },
+    {
+      "id": "pv-074",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Go Off",
+      "meaning": "To express your anger verbally; to leave without warning; to leave the normal path",
+      "example": "Don't go off into the woods alone."
+    },
+    {
+      "id": "pv-075",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Go With",
+      "meaning": "To join; to combine; to match",
+      "example": "Those shoes don't go with that dress."
+    },
+    {
+      "id": "pv-076",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Gross Out",
+      "meaning": "To feel disgusted by something",
+      "example": "The smell of that trash is grossing me out."
+    },
+    {
+      "id": "pv-077",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Hand Back",
+      "meaning": "To return something after borrowing it",
+      "example": "Kyra handed the pencil back to me after her homework was finished."
+    },
+    {
+      "id": "pv-078",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Hang Around",
+      "meaning": "To be in a specific place for a period of time",
+      "example": "He hangs around the mall a lot."
+    },
+    {
+      "id": "pv-079",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Hold Against",
+      "meaning": "To refuse forgiving someone",
+      "example": "I hope you don't hold this against me, but I don't feel like going to the store with you."
+    },
+    {
+      "id": "pv-080",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Hold Off",
+      "meaning": "To delay or prevent something",
+      "example": "Why don't you hold off on mowing the lawn since it rained."
+    },
+    {
+      "id": "pv-081",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Hurry Up",
+      "meaning": "To quickly do something",
+      "example": "Hurry up with those burgers over there, we're starving!"
+    },
+    {
+      "id": "pv-082",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Keep At",
+      "meaning": "To continue trying",
+      "example": "Keep at it, you'll succeed eventually."
+    },
+    {
+      "id": "pv-083",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Keep Down",
+      "meaning": "To minimize noise",
+      "example": "Keep it down up there we're trying to sleep."
+    },
+    {
+      "id": "pv-084",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Keep Up",
+      "meaning": "To continue taking care of or doing something",
+      "example": "Jenny is struggling to keep up with her garden."
+    },
+    {
+      "id": "pv-085",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Kick Back",
+      "meaning": "To hang out; to relax",
+      "example": "Let's kick back at the pool today."
+    },
+    {
+      "id": "pv-086",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Knock Off",
+      "meaning": "To cause something to fall or stop",
+      "example": "Knock it off boys, there's no reason to hit your brothers."
+    },
+    {
+      "id": "pv-087",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Knock Out",
+      "meaning": "To hit someone hard enough that they are unconscious; to be surprised",
+      "example": "That smile could knock a guy out."
+    },
+    {
+      "id": "pv-088",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Lay Off",
+      "meaning": "To cut an employee's job; to stop doing",
+      "example": "Lay off the chocolate son you're going to get a headache."
+    },
+    {
+      "id": "pv-089",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Lead Up To",
+      "meaning": "When a series of certain events cause something to happen or occur",
+      "example": "All of you hard work has been leading up to this moment."
+    },
+    {
+      "id": "pv-090",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Leave Off",
+      "meaning": "To not include something, whether it be on purpose or an accident",
+      "example": "Let's leave the Jones family off the guest list."
+    },
+    {
+      "id": "pv-091",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Leave Out",
+      "meaning": "To purposefully exclude",
+      "example": "Grace got left out of the plans for tonight because of the way she acted last time."
+    },
+    {
+      "id": "pv-092",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Let Down",
+      "meaning": "To disappoint; to make lower or longer",
+      "example": "Please don't let me down at the event this weekend."
+    },
+    {
+      "id": "pv-093",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Let In",
+      "meaning": "To allow; to invite",
+      "example": "After he burnt the chicken, we opened the window to let in some fresh air."
+    },
+    {
+      "id": "pv-094",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Let On",
+      "meaning": "To allude to",
+      "example": "Kayla let on that Jeremy doesn't really want to come tonight."
+    },
+    {
+      "id": "pv-095",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Let Up",
+      "meaning": "To ease up",
+      "example": "Don't let up on him, he deserves to be punished for wrecking the house."
+    },
+    {
+      "id": "pv-096",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Lighten Up",
+      "meaning": "To make less serious",
+      "example": "Oh, lighten up it was only a joke."
+    },
+    {
+      "id": "pv-097",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Line Up",
+      "meaning": "To create a row; to organize",
+      "example": "Line up at the end of the field, you boys are running."
+    },
+    {
+      "id": "pv-098",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Lock In",
+      "meaning": "To secure; to save; to keep at a specific level",
+      "example": "Let's lock in a date for vacation before our calendars fill up."
+    },
+    {
+      "id": "pv-099",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Lock Up",
+      "meaning": "To shut the doors or windows, to trap",
+      "example": "Please lock up before you leave."
+    },
+    {
+      "id": "pv-100",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Look Down On",
+      "meaning": "To believe you are better than someone or something",
+      "example": "Don't look down on me just because I'm younger than you."
+    },
+    {
+      "id": "pv-101",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Look Forward To",
+      "meaning": "To anticipate with excitement",
+      "example": "I look forward to meeting you soon."
+    },
+    {
+      "id": "pv-102",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Look Into",
+      "meaning": "To investigate further",
+      "example": "Police are still looking into the disappearance."
+    },
+    {
+      "id": "pv-103",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Look Out",
+      "meaning": "To stay alert; to do a favor for someone",
+      "example": "Thanks for looking out for me, I wouldn't have made it through school without you."
+    },
+    {
+      "id": "pv-104",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Look Over",
+      "meaning": "To examine",
+      "example": "Let's look over these papers together."
+    },
+    {
+      "id": "pv-105",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Look Up To",
+      "meaning": "To respect or revere someone",
+      "example": "I look up to him as the father I never had."
+    },
+    {
+      "id": "pv-106",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Luck Out",
+      "meaning": "To unexpectedly experience luck",
+      "example": "I guess we lucked out this time finding a parking spot near the front."
+    },
+    {
+      "id": "pv-107",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Make Up",
+      "meaning": "To create a story; to do something that is better than what you missed out on",
+      "example": "That didn't happen, you're making that up."
+    },
+    {
+      "id": "pv-108",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Mess Up",
+      "meaning": "To be unorganized; to ruin",
+      "example": "You messed up my hair."
+    },
+    {
+      "id": "pv-109",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Mix Up",
+      "meaning": "To combine; to confuse; to upgrade or change",
+      "example": "Can you mix up the batter for me while I make the frosting?"
+    },
+    {
+      "id": "pv-110",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Monkey Around With",
+      "meaning": "To mess around; to be silly",
+      "example": "That's enough monkeying around with your brothers."
+    },
+    {
+      "id": "pv-111",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Narrow Down",
+      "meaning": "To reduce your options",
+      "example": "Please narrow down the lunch options to two restaurants."
+    },
+    {
+      "id": "pv-112",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Pay Back",
+      "meaning": "To return money that you owe; to reciprocate",
+      "example": "I will pay you back when I find my wallet."
+    },
+    {
+      "id": "pv-113",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Pay Up",
+      "meaning": "To give all the money you owe",
+      "example": "You are required to pay two months' rent up before moving day."
+    },
+    {
+      "id": "pv-114",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Pay Off",
+      "meaning": "To repay; to give money in exchange for secrecy; to be rewarded for hard work",
+      "example": "Hard work pays off."
+    },
+    {
+      "id": "pv-115",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Pick On",
+      "meaning": "To tease or bully",
+      "example": "Those kids always pick on my son."
+    },
+    {
+      "id": "pv-116",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Pile Up",
+      "meaning": "To place or be in a pile",
+      "example": "That trash is really piling up."
+    },
+    {
+      "id": "pv-117",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Piss Off",
+      "meaning": "To make someone angry",
+      "example": "You better take your shoes off inside the house before you piss off your mom."
+    },
+    {
+      "id": "pv-118",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Plan On",
+      "meaning": "To have the intention of doing",
+      "example": "I plan on being there around noon."
+    },
+    {
+      "id": "pv-119",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Plug In",
+      "meaning": "To connect to electricity",
+      "example": "My phone was about to die so I had to plug it in."
+    },
+    {
+      "id": "pv-120",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Point Out",
+      "meaning": "To bring attention to",
+      "example": "You didn't have to point out the pimple on my chin, I know it's there."
+    },
+    {
+      "id": "pv-121",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Print Out",
+      "meaning": "To create a paper copy",
+      "example": "Can you print out that flyer?"
+    },
+    {
+      "id": "pv-122",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Pull Off",
+      "meaning": "To do successfully",
+      "example": "I can't believe they pulled off the surprise."
+    },
+    {
+      "id": "pv-123",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Pull Over",
+      "meaning": "To drive onto the side of the road and stop",
+      "example": "The cops had her pull over because she had a taillight out."
+    },
+    {
+      "id": "pv-124",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Pull Through",
+      "meaning": "To recover; to continue through difficulty",
+      "example": "Let's just pull through to the next parking spot."
+    },
+    {
+      "id": "pv-125",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Punch In",
+      "meaning": "To record time",
+      "example": "I punched in to work at 6 o'clock in the morning every day this week."
+    },
+    {
+      "id": "pv-126",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Put Away",
+      "meaning": "To hide something in a specific place",
+      "example": "Put those toys away before someone trips on one of them."
+    },
+    {
+      "id": "pv-127",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Put Back",
+      "meaning": "To return to its original place; to postpone",
+      "example": "Put that broom back after you use it."
+    },
+    {
+      "id": "pv-128",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Put In",
+      "meaning": "To place inside; to install; to contribute money",
+      "example": "Put those groceries in the refrigerator please."
+    },
+    {
+      "id": "pv-129",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Put Together",
+      "meaning": "To assemble; to plan; to position close together",
+      "example": "We can put together her dresser later today."
+    },
+    {
+      "id": "pv-130",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Put Up With",
+      "meaning": "To tolerate something that you don't necessarily like",
+      "example": "I put up with a lot in my last relationship."
+    },
+    {
+      "id": "pv-131",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Ring Up",
+      "meaning": "To call on the phone; to add up the total cost at a register",
+      "example": "The grocery clerk offered to ring us up on the register she just opened."
+    },
+    {
+      "id": "pv-132",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Rip Off",
+      "meaning": "To be asked to pay too much for something; to remove something from where it was using force",
+      "example": "Just rip off the band aid, it will only hurt for a second."
+    },
+    {
+      "id": "pv-133",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Rip Up",
+      "meaning": "To tear into pieces; to remove something off of a specific surface",
+      "example": "We had to rip up the carpet in the house we were fixing up."
+    },
+    {
+      "id": "pv-134",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Rule Out",
+      "meaning": "To eliminate as possible",
+      "example": "They ruled him out as a suspect after his alibi checked out."
+    },
+    {
+      "id": "pv-135",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Run Across",
+      "meaning": "To move from one side to another",
+      "example": "The fox ran across the road."
+    },
+    {
+      "id": "pv-136",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Run Around",
+      "meaning": "To go from place to place quickly; to play while running",
+      "example": "I have been running around town all day."
+    },
+    {
+      "id": "pv-137",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Run Down",
+      "meaning": "To gradually get worse; to explain a plan; to quickly get lower",
+      "example": "Let me give you the run down of the night before we leave."
+    },
+    {
+      "id": "pv-138",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Run Into",
+      "meaning": "When two objects accidentally hit each other; to see someone you know unexpectedly; to have unexpected issues; to go inside quickly",
+      "example": "Can you run into the store and grab some apples for me please?"
+    },
+    {
+      "id": "pv-139",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Run Over",
+      "meaning": "To be injured by a car; to practice all the way through; to continue past the allotted time; to explain again; to have too much liquid inside",
+      "example": "Football practice always runs over after a loss."
+    },
+    {
+      "id": "pv-140",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Screw On",
+      "meaning": "To seal a container's lid; to connect parts with a screw",
+      "example": "Screw that lid on tight or you'll spill your drink."
+    },
+    {
+      "id": "pv-141",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Screw Up",
+      "meaning": "To make a mess of something",
+      "example": "I screwed up the date by talking about myself too much."
+    },
+    {
+      "id": "pv-142",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "See About",
+      "meaning": "To look into doing something",
+      "example": "Let's see about getting an extra bag of ice for the party."
+    },
+    {
+      "id": "pv-143",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Sell Out",
+      "meaning": "To be rid of all available inventory; to give up your morals when doing something",
+      "example": "We better get there early before the tickets sell out."
+    },
+    {
+      "id": "pv-144",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Settle Down",
+      "meaning": "To start living routinely with more stability; to relax",
+      "example": "Settle down before you get the dogs riled up."
+    },
+    {
+      "id": "pv-145",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Shake Up",
+      "meaning": "Shaking to mix something; to upset someone",
+      "example": "Shake up the orange juice before drinking it."
+    },
+    {
+      "id": "pv-146",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Show Off",
+      "meaning": "To display something in a large way",
+      "example": "He came by to show off his new truck."
+    },
+    {
+      "id": "pv-147",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Shut Up",
+      "meaning": "To not talk",
+      "example": "My mom shouting at us is a great way to get us to shut up."
+    },
+    {
+      "id": "pv-148",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Sign In",
+      "meaning": "To write your name down with the time and date you arrived; to input a username and password online",
+      "example": "We had to sign in at the front office before the doctor would see us."
+    },
+    {
+      "id": "pv-149",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Sign Out",
+      "meaning": "To signify your departure by signing your name and the date; to exit online",
+      "example": "Be sure to sign out of your account on the library computer so that no one can access your information."
+    },
+    {
+      "id": "pv-150",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Sit Down",
+      "meaning": "To start sitting; to assist someone in sitting",
+      "example": "Please, sit down you've been on your feet all day."
+    },
+    {
+      "id": "pv-151",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Slow Down",
+      "meaning": "To start being slower",
+      "example": "Slow down I can't understand what you're saying when you talk that fast."
+    },
+    {
+      "id": "pv-152",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Sneak In/Into",
+      "meaning": "To go inside somewhere without being detected",
+      "example": "Sneak into the back pew, we're late and don't want to disturb the service."
+    },
+    {
+      "id": "pv-153",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Sneak Out",
+      "meaning": "To leave without being detected",
+      "example": "Let's sneak out tonight and go to the club."
+    },
+    {
+      "id": "pv-154",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Sort Out",
+      "meaning": "To resolve a misunderstanding; to place things into specific groups",
+      "example": "Paul wants to sort out the details before we leave for the trip."
+    },
+    {
+      "id": "pv-155",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Space Out",
+      "meaning": "To gravitate your attention elsewhere; to not focus on what's around you",
+      "example": "I'm so tired that I keep spacing out and not hearing what she said to me."
+    },
+    {
+      "id": "pv-156",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Stand Around",
+      "meaning": "To gather in one area instead of doing what you need to",
+      "example": "Quit standing around, we've got housework to do!"
+    },
+    {
+      "id": "pv-157",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Stand For",
+      "meaning": "To back up or support",
+      "example": "The school won't stand for bullying of any kind."
+    },
+    {
+      "id": "pv-158",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Start Off",
+      "meaning": "To begin; to have intentions to do something",
+      "example": "Jacob started off the weekend by sleeping in until noon."
+    },
+    {
+      "id": "pv-159",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Start Up",
+      "meaning": "To begin something; to make it work",
+      "example": "Start up the car, I will be outside in a second."
+    },
+    {
+      "id": "pv-160",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Stay Out",
+      "meaning": "To leave your home; to not go inside; to remain uninvolved",
+      "example": "We wanted to stay out past midnight but got too tired."
+    },
+    {
+      "id": "pv-161",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Stay Up",
+      "meaning": "To be above level ground; to be awake longer than usual",
+      "example": "Don't stay up too late, you have school in the morning."
+    },
+    {
+      "id": "pv-162",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Step On",
+      "meaning": "To move quickly; to place your foot",
+      "example": "They're coming after us, so step on the gas!"
+    },
+    {
+      "id": "pv-163",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Stick Around",
+      "meaning": "To remain in one place for a while",
+      "example": "We better stick around for a bit after your grandmother's surgery."
+    },
+    {
+      "id": "pv-164",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Stick Out",
+      "meaning": "To extend outward; to be recognized; to persevere",
+      "example": "It's only a few more weeks, just stick it out."
+    },
+    {
+      "id": "pv-165",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Stick Up",
+      "meaning": "To put something where it can be seen more easily; to stand out from the group",
+      "example": "Your hair is all brushed and smooth besides one little piece that's sticking up over here."
+    },
+    {
+      "id": "pv-166",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Stick With",
+      "meaning": "To continue; to stay loyal; to endure an uncomfortable situation or person",
+      "example": "They always stick us good kids with the troublemakers."
+    },
+    {
+      "id": "pv-167",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Stop Over",
+      "meaning": "To visit for a moment; to stop quickly",
+      "example": "Can you stop over at the store for some milk before you get home?"
+    },
+    {
+      "id": "pv-168",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Straighten Out",
+      "meaning": "To make straight; to fix an issue; to make someone's attitude or behavior better",
+      "example": "Let's straighten her out before the big day."
+    },
+    {
+      "id": "pv-169",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Switch Off",
+      "meaning": "To turn something previously on to be off",
+      "example": "Switch off the oven once you're done baking, so it doesn't start a fire."
+    },
+    {
+      "id": "pv-170",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Switch On",
+      "meaning": "To turn something previously off to be on",
+      "example": "Switch on those lights, it's way too dark in here."
+    },
+    {
+      "id": "pv-171",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Take Apart",
+      "meaning": "To disassemble or separate",
+      "example": "We have to take apart the giant bookshelves to get them inside the building."
+    },
+    {
+      "id": "pv-172",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Take Out",
+      "meaning": "To remove; to withdraw money; to pay for a dinner, bowling, etc., to murder",
+      "example": "I had to take out $300 for the fair this weekend."
+    },
+    {
+      "id": "pv-173",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Take Up On",
+      "meaning": "To accept an invitation or offer",
+      "example": "My night just freed up, so I will take you up on those tacos."
+    },
+    {
+      "id": "pv-174",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Talk Down To",
+      "meaning": "To talk to someone as if you are better and/or smarter than them",
+      "example": "Frank always talks down to her when he's explaining something."
+    },
+    {
+      "id": "pv-175",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Talk Into",
+      "meaning": "To convince",
+      "example": "I won't let you talk me into buying anything else today."
+    },
+    {
+      "id": "pv-176",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Talk Out Of",
+      "meaning": "To convince someone against something",
+      "example": "Nothing will talk her out of getting this tattoo."
+    },
+    {
+      "id": "pv-177",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Talk To",
+      "meaning": "To converse with someone",
+      "example": "Jackie will talk to him about borrowing the car tomorrow."
+    },
+    {
+      "id": "pv-178",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Tear Down",
+      "meaning": "To destroy physical or mentally",
+      "example": "They tore down the old spaghetti factory last year."
+    },
+    {
+      "id": "pv-179",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Tear Off",
+      "meaning": "To remove forcefully",
+      "example": "Nikki tore off a piece of chicken."
+    },
+    {
+      "id": "pv-180",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Tell Apart",
+      "meaning": "To differentiate",
+      "example": "The Hollow twins are too similar, I can't tell them apart."
+    },
+    {
+      "id": "pv-181",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Tell On",
+      "meaning": "To inform someone of something that happened but was not supposed to",
+      "example": "Poppy told on her brother after he broke their mom's vase."
+    },
+    {
+      "id": "pv-182",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Think About",
+      "meaning": "To ponder something before it happens; to have on your mind",
+      "example": "Julia can't stop thinking about her date on Friday."
+    },
+    {
+      "id": "pv-183",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Think Ahead",
+      "meaning": "To plan for the future",
+      "example": "Luckily, mom thought ahead for the boat trip and brought plenty of snacks and drinks."
+    },
+    {
+      "id": "pv-184",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Think Up",
+      "meaning": "To come up with an idea using your imagination",
+      "example": "I could never think up a movie like The Matrix on my own."
+    },
+    {
+      "id": "pv-185",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Throw Away",
+      "meaning": "To get rid of",
+      "example": "He threw those old muffins away once they started going bad."
+    },
+    {
+      "id": "pv-186",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Track Down",
+      "meaning": "To seek out and find",
+      "example": "It took forever to track down a copy of her new book, but I finally got one."
+    },
+    {
+      "id": "pv-187",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Trade In",
+      "meaning": "To exchange an old item for something new",
+      "example": "My dad traded in his old truck to the dealership, then bought a nicer one."
+    },
+    {
+      "id": "pv-188",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Trick Into",
+      "meaning": "To persuade using dishonesty",
+      "example": "Josh tricked me into coming with him."
+    },
+    {
+      "id": "pv-189",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Try On",
+      "meaning": "To see how something fits on your body before buying it",
+      "example": "You better try those shorts on to make sure they fit correctly."
+    },
+    {
+      "id": "pv-190",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Try Out",
+      "meaning": "To demonstrate a specific skill; to test something",
+      "example": "I want to try out that new Mexican restaurant in town."
+    },
+    {
+      "id": "pv-191",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Turn Down",
+      "meaning": "To refuse an offer; to decrease something",
+      "example": "Please turn down the radio, I am trying to talk on the phone."
+    },
+    {
+      "id": "pv-192",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Turn Off",
+      "meaning": "To stop from being on; to offend or cause someone to lose interest",
+      "example": "Someone being lazy is such a turn off, I prefer a hardworking man."
+    },
+    {
+      "id": "pv-193",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Turn On",
+      "meaning": "To stop from being off; to entice or cause attraction; to suddenly become against someone",
+      "example": "I never expected the butler to turn on the family after all of his years of service."
+    },
+    {
+      "id": "pv-194",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Turn Over",
+      "meaning": "To flip to the other side; to pass on authority duties; to replace continuously",
+      "example": "After 25 years as HOA President, Bob turned over his duties to a younger member of the neighborhood."
+    },
+    {
+      "id": "pv-195",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Turn Up",
+      "meaning": "To increase volume; to be found; to learn though research",
+      "example": "That missing vehicle is bound to turn up somewhere."
+    },
+    {
+      "id": "pv-196",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Use Up",
+      "meaning": "To exhaust the resources of something",
+      "example": "Did you use up the last of the peanut butter yesterday?"
+    },
+    {
+      "id": "pv-197",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Wake Up",
+      "meaning": "To clean using water",
+      "example": "Hannah was supposed to wake up at 6 am, but she slept until noon."
+    },
+    {
+      "id": "pv-198",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Wash Off",
+      "meaning": "Definition not provided.",
+      "example": "After we went hiking in the rain, I had to wash off my boots with the hose."
+    },
+    {
+      "id": "pv-199",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Wash Up",
+      "meaning": "To clean yourself; to be carried ashore by water; to no longer be of any use",
+      "example": "You and your brothers need to go wash up before dinner."
+    },
+    {
+      "id": "pv-200",
+      "type": "phrasal_verb",
+      "category": "Phrasal Verbs",
+      "term": "Watch Out",
+      "meaning": "To be cautious of something happening",
+      "example": "Watch out for deer when driving in the country at night."
+    }
+  ]
+}
