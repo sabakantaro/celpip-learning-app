@@ -72,6 +72,7 @@ body {
 
 .seg,
 .actions button,
+.review-toolbar button,
 .option,
 .feedback button {
   border: 0;
@@ -98,12 +99,18 @@ body {
 }
 
 .actions button,
+.review-toolbar button,
 .feedback button {
   background: var(--primary);
   color: var(--primary-ink);
 }
 
 .actions .ghost {
+  background: #e7ecf5;
+  color: #183056;
+}
+
+.ghost {
   background: #e7ecf5;
   color: #183056;
 }
@@ -167,6 +174,12 @@ body {
   margin-top: 0.85rem;
   display: grid;
   gap: 0.5rem;
+}
+
+.review-toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 0.4rem;
 }
 
 .feedback p {

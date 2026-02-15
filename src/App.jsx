@@ -95,6 +95,7 @@ export default function App() {
   const completed = useMemo(() => isCompleted(progress, filtered), [filtered, progress]);
 
   const currentItem = sessionQueue[index] ?? null;
+  const inSession = Boolean(currentItem);
   const correctAnswer = useMemo(() => {
     if (!currentItem) return "";
     return quizMode === QUIZ_MODES.MEANING_TO_TERM
@@ -133,85 +134,89 @@ export default function App() {
     setIndex((prev) => prev + 1);
   }
 
-  function resetProgress() {
-    const next = initialProgress(items);
-    setProgress(next);
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+  function endSession() {
     setSessionQueue([]);
     setIndex(0);
     setSelected("");
     setResult(null);
   }
 
+  function resetProgress() {
+    const next = initialProgress(items);
+    setProgress(next);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+    endSession();
+  }
+
   const masteredCount = filtered.filter((item) => (progress[item.id]?.box ?? 1) >= TARGET_BOX).length;
 
   return (
     <div className="page">
-      <header className="hero">
-        <h1>English Memory Builder</h1>
-        <p>Question loop + spaced repetition for Words and Phrasal Verbs.</p>
-      </header>
+      {!inSession && (
+        <header className="hero">
+          <h1>English Memory Builder</h1>
+          <p>Question loop + spaced repetition for Words and Phrasal Verbs.</p>
+        </header>
+      )}
 
       <main className="container">
-        <section className="panel controls">
-          <div className="segmented">
-            {["All", "Words", "Phrasal Verbs"].map((label) => (
+        {!inSession && (
+          <section className="panel controls">
+            <div className="segmented">
+              {["All", "Words", "Phrasal Verbs"].map((label) => (
+                <button
+                  key={label}
+                  className={category === label ? "seg active" : "seg"}
+                  onClick={() => {
+                    setCategory(label);
+                    endSession();
+                  }}
+                  type="button"
+                >
+                  {label}
+                </button>
+              ))}
+            </div>
+            <div className="actions">
               <button
-                key={label}
-                className={category === label ? "seg active" : "seg"}
-                onClick={() => {
-                  setCategory(label);
-                  setSessionQueue([]);
-                }}
                 type="button"
+                className={quizMode === QUIZ_MODES.TERM_TO_MEANING ? "seg active" : "seg"}
+                onClick={() => {
+                  setQuizMode(QUIZ_MODES.TERM_TO_MEANING);
+                  endSession();
+                }}
               >
-                {label}
+                Term -&gt; Meaning
               </button>
-            ))}
-          </div>
-          <div className="actions">
-            <button
-              type="button"
-              className={quizMode === QUIZ_MODES.TERM_TO_MEANING ? "seg active" : "seg"}
-              onClick={() => {
-                setQuizMode(QUIZ_MODES.TERM_TO_MEANING);
-                setSessionQueue([]);
-                setIndex(0);
-                setSelected("");
-                setResult(null);
-              }}
-            >
-              Term -&gt; Meaning
-            </button>
-            <button
-              type="button"
-              className={quizMode === QUIZ_MODES.MEANING_TO_TERM ? "seg active" : "seg"}
-              onClick={() => {
-                setQuizMode(QUIZ_MODES.MEANING_TO_TERM);
-                setSessionQueue([]);
-                setIndex(0);
-                setSelected("");
-                setResult(null);
-              }}
-            >
-              Meaning -&gt; Term
-            </button>
-            <button type="button" onClick={startSession}>
-              Start Due Session ({dueItems.length})
-            </button>
-            <button type="button" className="ghost" onClick={resetProgress}>
-              Reset All Progress
-            </button>
-          </div>
-        </section>
+              <button
+                type="button"
+                className={quizMode === QUIZ_MODES.MEANING_TO_TERM ? "seg active" : "seg"}
+                onClick={() => {
+                  setQuizMode(QUIZ_MODES.MEANING_TO_TERM);
+                  endSession();
+                }}
+              >
+                Meaning -&gt; Term
+              </button>
+              <button type="button" onClick={startSession}>
+                Start Due Session ({dueItems.length})
+              </button>
+              <button type="button" className="ghost" onClick={resetProgress}>
+                Reset All Progress
+              </button>
+            </div>
+          </section>
+        )}
 
-        <section className="panel stats">
-          <p>Total: {filtered.length}</p>
-          <p>Due now: {dueItems.length}</p>
-          <p>Mastered: {masteredCount}</p>
-          <p>Completed: {completed ? "Yes" : "Not yet"}</p>
-          <p>Mode: {quizMode.replaceAll("_", " ")}</p>
-        </section>
+        {!inSession && (
+          <section className="panel stats">
+            <p>Total: {filtered.length}</p>
+            <p>Due now: {dueItems.length}</p>
+            <p>Mastered: {masteredCount}</p>
+            <p>Completed: {completed ? "Yes" : "Not yet"}</p>
+            <p>Mode: {quizMode.replaceAll("_", " ")}</p>
+          </section>
+        )}
 
         <section className="panel review">
           {!currentItem && (
@@ -223,6 +228,11 @@ export default function App() {
 
           {currentItem && (
             <div>
+              <div className="review-toolbar">
+                <button type="button" onClick={endSession}>
+                  End Session
+                </button>
+              </div>
               <p className="progress-label">
                 Question {index + 1} / {sessionQueue.length}
               </p>
