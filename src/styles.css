@@ -146,6 +146,12 @@ body {
   color: var(--muted);
 }
 
+.timer {
+  margin: 0.1rem 0 0.7rem;
+  color: #a63f00;
+  font-weight: 600;
+}
+
 .option-list {
   display: grid;
   gap: 0.55rem;
@@ -180,6 +186,32 @@ body {
   display: flex;
   justify-content: flex-end;
   margin-bottom: 0.4rem;
+}
+
+.settings-panel {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.settings-panel h2,
+.settings-panel h3 {
+  margin: 0;
+}
+
+.settings-panel label {
+  display: grid;
+  gap: 0.35rem;
+  color: var(--muted);
+}
+
+.settings-panel input,
+.settings-panel select {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.62rem 0.8rem;
+  font: inherit;
+  color: var(--ink);
+  background: #f7f9fd;
 }
 
 .feedback p {
