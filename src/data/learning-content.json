@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T13:56:53.781Z",
+  "generatedAt": "2026-02-27T13:22:28.061Z",
   "counts": {
     "words": 200,
     "phrasalVerbs": 200,
@@ -3179,7 +3179,7 @@
       "type": "phrasal_verb",
       "category": "Phrasal Verbs",
       "term": "Wake Up",
-      "meaning": "To clean using water",
+      "meaning": "To finish sleeping; to become aware",
       "example": "Hannah was supposed to wake up at 6 am, but she slept until noon."
     },
     {
@@ -3187,7 +3187,7 @@
       "type": "phrasal_verb",
       "category": "Phrasal Verbs",
       "term": "Wash Off",
-      "meaning": "Definition not provided.",
+      "meaning": "To clean using water",
       "example": "After we went hiking in the rain, I had to wash off my boots with the hose."
     },
     {
