@@ -71,6 +71,7 @@ function initialProgress(items) {
 function defaultDailyState() {
   return {
     dateKey: "",
+    configSignature: "",
     queueIds: [],
     completed: false,
     stats: {
@@ -83,6 +84,10 @@ function defaultDailyState() {
       wrongDetails: [],
     },
   };
+}
+
+function getDailyConfigSignature(settings, category) {
+  return `${settings.dailyQuestionCount}|${settings.sourceMode}|${category}`;
 }
 
 export default function App() {
@@ -272,9 +277,11 @@ export default function App() {
 
   function buildDailyQueue() {
     const currentDate = todayKey();
+    const configSignature = getDailyConfigSignature(settings, category);
 
     if (
       dailyState.dateKey === currentDate &&
+      dailyState.configSignature === configSignature &&
       dailyState.queueIds.length > 0 &&
       dailyState.completed
     ) {
@@ -282,7 +289,11 @@ export default function App() {
       return [];
     }
 
-    if (dailyState.dateKey === currentDate && dailyState.queueIds.length > 0) {
+    if (
+      dailyState.dateKey === currentDate &&
+      dailyState.configSignature === configSignature &&
+      dailyState.queueIds.length > 0
+    ) {
       return dailyState.queueIds
         .map((id) => filtered.find((item) => item.id === id))
         .filter(Boolean);
@@ -305,6 +316,7 @@ export default function App() {
 
     const nextState = {
       dateKey: currentDate,
+      configSignature,
       queueIds: selectedQueue.map((item) => item.id),
       completed: false,
       stats: {
@@ -548,19 +560,22 @@ export default function App() {
           <section className="panel settings-panel">
             <h2>Daily Exam Settings</h2>
             <label>
-              Daily questions (10 - 50)
-              <input
-                type="number"
-                min="10"
-                max="50"
+              Daily questions
+              <select
                 value={settings.dailyQuestionCount}
                 onChange={(event) =>
                   setSettings((prev) => ({
                     ...prev,
-                    dailyQuestionCount: Math.max(10, Math.min(50, Number(event.target.value || 10))),
+                    dailyQuestionCount: Number(event.target.value),
                   }))
                 }
-              />
+              >
+                <option value={10}>10</option>
+                <option value={20}>20</option>
+                <option value={30}>30</option>
+                <option value={40}>40</option>
+                <option value={50}>50</option>
+              </select>
             </label>
 
             <label>
